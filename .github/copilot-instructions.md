@@ -1,0 +1,1 @@
+Always use Java 17, Spring Boot 3, clean architecture with Controller-Service-Repository layers, Lombok annotations, and proper HTTP status codes
